@@ -1,0 +1,29 @@
+{
+  "video_filename": "YTDown.com_YouTube_Media_gWA7O3Uz7Lc_Pedestrian-vs-Car-Crash-10-08-15-UWPD_001_1080p.mp4",
+  "confidence_threshold": 0.45,
+  "intrusion_confirm_seconds": 2.0,
+  "person_class_ids": [
+    0
+  ],
+  "zone_pixels": [
+    [
+      1056,
+      378
+    ],
+    [
+      1824,
+      378
+    ],
+    [
+      1824,
+      1026
+    ],
+    [
+      1056,
+      1026
+    ]
+  ],
+  "video_width": 1920,
+  "video_height": 1080,
+  "fall_detection_enabled": false
+}

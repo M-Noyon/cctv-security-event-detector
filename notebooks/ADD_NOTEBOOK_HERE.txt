@@ -1,0 +1,1 @@
+Place your cleaned CCTV_Event_Detector.ipynb in this folder. Then delete this placeholder.

@@ -1,0 +1,106 @@
+[
+  {
+    "event": "intrusion_detected",
+    "track_id": 2,
+    "start_seconds": 0.0,
+    "timestamp_seconds": 1.909,
+    "detector_confidence": 0.7509,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 4,
+    "start_seconds": 0.0,
+    "timestamp_seconds": 1.909,
+    "detector_confidence": 0.6654,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 17,
+    "start_seconds": 0.818,
+    "timestamp_seconds": 2.727,
+    "detector_confidence": 0.5398,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 1,
+    "start_seconds": 1.091,
+    "timestamp_seconds": 3.0,
+    "detector_confidence": 0.8105,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 21,
+    "start_seconds": 1.545,
+    "timestamp_seconds": 3.455,
+    "detector_confidence": 0.6297,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 16,
+    "start_seconds": 2.273,
+    "timestamp_seconds": 4.182,
+    "detector_confidence": 0.578,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 45,
+    "start_seconds": 5.818,
+    "timestamp_seconds": 7.727,
+    "detector_confidence": 0.8032,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 46,
+    "start_seconds": 6.0,
+    "timestamp_seconds": 7.909,
+    "detector_confidence": 0.7514,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 64,
+    "start_seconds": 6.091,
+    "timestamp_seconds": 8.0,
+    "detector_confidence": 0.7728,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 17,
+    "start_seconds": 6.273,
+    "timestamp_seconds": 8.182,
+    "detector_confidence": 0.5652,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 16,
+    "start_seconds": 7.182,
+    "timestamp_seconds": 9.091,
+    "detector_confidence": 0.5632,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 71,
+    "start_seconds": 8.636,
+    "timestamp_seconds": 10.545,
+    "detector_confidence": 0.8019,
+    "confirmation_seconds": 2.0
+  },
+  {
+    "event": "intrusion_detected",
+    "track_id": 68,
+    "start_seconds": 11.0,
+    "timestamp_seconds": 12.909,
+    "detector_confidence": 0.5815,
+    "confirmation_seconds": 2.0
+  }
+]

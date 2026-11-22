@@ -1,0 +1,30 @@
+{
+  "video_filename": "YTDown.com_YouTube_Media_gWA7O3Uz7Lc_Pedestrian-vs-Car-Crash-10-08-15-UWPD_001_1080p.mp4",
+  "processed_frames": 144,
+  "video_fps": 11.0,
+  "duration_seconds": 13.091,
+  "processing_seconds": 10.227,
+  "pipeline_processing_fps": 14.08,
+  "tracked_person_observations": 1497,
+  "distinct_track_ids": 50,
+  "intrusion_alerts": 13,
+  "highlight_clips": 1,
+  "person_detector_validation": {
+    "metrics/precision(B)": 0.8418068217531829,
+    "metrics/recall(B)": 0.7504180541705485,
+    "metrics/mAP50(B)": 0.8366314783309119,
+    "metrics/mAP50-95(B)": 0.5102950330282924,
+    "fitness": 0.5102950330282924
+  },
+  "intrusion_event_precision": null,
+  "intrusion_event_recall": null,
+  "fall_detection_enabled": false,
+  "limitations": [
+    "Track IDs may change during occlusion.",
+    "Missing detections reset the intrusion timer.",
+    "Distinct track IDs are not a count of unique people.",
+    "Frame-index timestamps assume constant-frame-rate video.",
+    "Pipeline FPS includes tracking, drawing and video writing.",
+    "Event precision and recall have not been evaluated."
+  ]
+}
